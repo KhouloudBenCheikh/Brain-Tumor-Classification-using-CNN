@@ -8,4 +8,8 @@ enabling it to recognize the unique features associated with brain tumors.
 
 
 
+![Resuklt](https://github.com/KhouloudBenCheikh/Brain-Tumor-Classification-using-CNN/blob/main/Prediction_DataSet/pred12.jpg)
+![Resuklt](https://github.com/KhouloudBenCheikh/Brain-Tumor-Classification-using-CNN/blob/main/Prediction_DataSet/pred1.jpg)
+
+
 
